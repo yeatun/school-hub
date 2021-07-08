@@ -6,6 +6,7 @@ const Home = () => {
     return (
         <div>
            <Navbar></Navbar> 
+         
            <Profile></Profile>
         </div>
     );

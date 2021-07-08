@@ -20,7 +20,7 @@ const Navbar = () => {
      
         
          <li class="nav-item">
-          <Link class="nav-link ms-5 text-brand " to="/home">Home</Link>
+          <Link class="nav-link ms-5 text-brand " to="/">Home</Link>
         </li>
        
         <li class="nav-item">
@@ -31,7 +31,7 @@ const Navbar = () => {
         </li>
 
         <li class="nav-item">
-          <Link class="nav-link ms-5 text-brand " to="/profile">Update students profile</Link>
+          <Link class="nav-link ms-5 text-brand " to="/pro">Update students profile</Link>
         </li>
 
         
